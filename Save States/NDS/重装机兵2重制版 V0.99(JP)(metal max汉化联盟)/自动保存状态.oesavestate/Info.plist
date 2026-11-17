@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Core Identifier</key>
+	<string>org.openemu.DeSmuME</string>
+	<key>Core Version</key>
+	<string>0.9.14.2</string>
+	<key>Name</key>
+	<string>OESpecialState_auto</string>
+	<key>ROM MD5</key>
+	<string>e9e08e9b8293d7315251f22cc4793ee8</string>
+	<key>Timestamp</key>
+	<date>2026-11-15T16:51:22Z</date>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
